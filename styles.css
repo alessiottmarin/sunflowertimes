@@ -23,7 +23,7 @@ body{
 .image{
     display: flex;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .image2{
